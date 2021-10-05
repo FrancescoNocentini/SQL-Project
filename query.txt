@@ -1,9 +1,0 @@
-Ordini in un certo anno/dopo una certa data
-cliente che ha effettuato più ordini
-libro più acquistato
-casa ed che ha venduto più libri
-quantità ordini fatti da quelli con più di 20 anni (o nati ad es dopo il 2000)
-trigger/funzioni
-aggiunta di un ordine devo modificare anche ordinato e composizione
-se cancello un cliente che succede?
-ordino un libro non disponibile, annullo ordine (a schermo scritta ordine non possibile)
