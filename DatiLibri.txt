@@ -1,0 +1,23 @@
+CodL,Nome,Anno_Pubblicazione,Prezzo,Disponibilità
+
+(ricontrollare ultimo libro che è doppio)
+9788850334384,Clean code,2018,37.90,31
+9788891708441,Gocce di Java,2016,35.00,1
+9788891902542,Reti di calcolatori e internet,2017,44.65,13
+9788865183717,Sistemi operativi,2014,46.55,0
+9788838668005,Basi di dati,2013,40.85,3
+9788850328741,L'arte dell'hacking vol 2,2009,12.26,18
+9788850311248,L'arte dell'hacking vol 1,2009,12.26,3
+9788891635433,Concetti di informatica e fondamenti di Python,2019,51.30,0
+9788891901651,Il linguaggio C,2016,37.05,6
+9788871929620,Architettura dei calcolatori,2013,46.55,9
+97888919058191,Reti logiche,2019,27.55,5
+9788891904577,Programmazione di base e avanzata con Java,2018,53.20,2
+9788838665158,Introduzione agli algoritmi e strutture dati,2010,58.90,1
+9788820733834,Elementi di analisi matematica 1,2002,32.29,16
+9788820733837,Elementi di analisi matematica 2,2001,37.99,22
+9788871923031,Thinking in Java Vol. 1,2006,33.25,11
+9788871923055,Thinking in Java Vol. 3,2006,37.05,7
+9788867610310,Calcolo numerico,2019,23.75,25
+9788871925523,Automi linguaggi e calcolabilità,2009,40.85,18
+9788891902549,Reti di calcolatori e internet,2017,44.65,4

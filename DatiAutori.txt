@@ -1,0 +1,20 @@
+CodA,Nome,Cognome
+
+CodA è progressivo. Mettere gli altri autori dei libri salvandoli anche in datilibri e/o in scritto
+
+1,Robert,Martin
+2,Pierluigi,Crescenzi
+3,James,Kurose
+4,Abraham,Silberschatz
+5,Paolo,Atzeni
+6,Jon,Erickson
+7,Cay,Horstmann
+8,Paul,Deitel
+9,Andrew,Tanenbaum
+10,Mano,Morris
+11,Walter,Savitch
+12,Thomas,Cormen
+13,Paolo,Marcellini
+14,Bruce,Eckel
+15,Luigi,Brugnano
+16,John,Hopcroft

@@ -1,0 +1,14 @@
+CodC,Nome,Cognome,Sesso,Data_Nascita
+
+CodC è progressivo.
+
+1,Marco,Rossi,M,1996/09/20
+2,Giuseppe,Verdi,M,1998/01/03
+3,Sabrina,Garibaldi,F,1990/04/15
+4,Federica,Alighieri,F,	1996/11/29
+5,Francesca,Mirabelli,F,1992/07/13
+6,Carlo,Mentana,M,2000/07/07
+7,Giulia,Reginaldi,F,2001/02/27
+8,Federico,Semplici,M,2001/12/17
+9,Sara,Maestri,F,1990/12/08
+10,Tommasi,Casini,M,2000/06/19
